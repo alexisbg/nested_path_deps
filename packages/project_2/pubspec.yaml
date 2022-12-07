@@ -12,3 +12,4 @@ dependencies:
 dependency_overrides:
   project_1:
     path: ../project_1
+    version: 1.0.0
