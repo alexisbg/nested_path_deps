@@ -8,8 +8,6 @@ environment:
 
 dependencies:
   project_1: ^1.0.0
-  # project_1:
-  #   path: ../project_1
 
 dependency_overrides:
   project_1:
