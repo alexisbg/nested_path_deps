@@ -1,0 +1,14 @@
+name: project_3
+description: A starting point for Dart libraries or applications.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: '>=2.18.5 <3.0.0'
+
+dependencies:
+  project_2: ^1.0.0
+
+dependency_overrides:
+  project_2:
+    path: ../project_2
